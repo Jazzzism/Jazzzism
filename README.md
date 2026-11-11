@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jazz 👋
 
-<!--
-**Jazzzism/Jazzzism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA automation engineer focused on reliable web and API testing for e-commerce and SaaS products.
 
-Here are some ideas to get you started:
+## What I do
+- UI test automation with Python, Selenium and pytest
+- REST API testing with Postman and Newman
+- SQL data validation and regression testing
+- Agile/Scrum teams, bug reporting, test planning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [selenium-pytest-framework](link-to-repo): page-object UI test suite with CI
+- [postman-api-tests](link-to-repo): API test collection with assertions
+
+## Work with me
+Available for freelance QA automation and API testing.
+📧 jasspreet.k.80815@gmail.com· 
