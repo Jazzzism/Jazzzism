@@ -9,8 +9,8 @@ QA automation engineer focused on reliable web and API testing for e-commerce an
 - Agile/Scrum teams, bug reporting, test planning
 
 ## Projects
-- [selenium-pytest-framework](Jazzzism/selenium-pytest-framework): page-object UI test suite with CI
-- [postman-api-tests](link-to-repo): API test collection with assertions
+- [selenium-pytest-framework](https://github.com/Jazzzism/selenium-pytest-framework): page-object UI test suite with CI
+- [postman-api-tests](https://github.com/Jazzzism/postman-api-tests/actions): API test collection with assertions
 
 ## Work with me
 Available for freelance QA automation and API testing.
